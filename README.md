@@ -1,2 +1,2 @@
-# jomiklan.my
-Repo For Jomiklan Website
+#muallim.my
+Repo For Muallim Website
